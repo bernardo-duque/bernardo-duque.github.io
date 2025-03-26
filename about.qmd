@@ -4,26 +4,26 @@ about:
   template: trestles
   image: profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/bernardo-duque
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/bernardo-duque-a0ba07180/
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+I am an Economics PhD Student at Brown University interested in Development Economics and Political Economy. In particular, my research focuses on Crime and Criminal Organizations, which pose significant challenges to development in my country.
+
+In addition to my academic pursuits, I am also interested in addressing these issues on a practical level. I co-founded an NGO dedicated to scientific dissemination in my hometown, Rio de Janeiro, and I have also gained valuable experience working in the private and public sector.
 
 ## Education
 
-Where I studied
+I hold a Bachelor's degree  a Master's degree in Economics from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). Currently, I am pursuing my PhD in Economics at Brown University.
 
 ## Experience
 
-What I've done
+I have worked as an research assistant in several projects since 2020. Some of the topics of these projects are the effects of pretrial detention arrest on recidivism; the expasion of drug-trafficking organizations in Rio; testing predictions of the median voter theorem; and investigating whether politicians keep their campaign promises after being elected. 
+
+I have also worked in the public sector as data analyst for the Research Center at the Public's Attorney's Office of Rio de Janeiro. I assisted research on militias and drug-trafficking organizations in Rio.
+
+Further, I have experience in the private sector for consulting firms in Brazil, where I worked on projects related to economic analysis and policy evaluation.
