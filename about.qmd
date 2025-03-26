@@ -1,5 +1,5 @@
 ---
-title: "Simone"
+title: "Bernardo Duque"
 about:
   template: trestles
   image: profile_2.jpg
