@@ -2,7 +2,7 @@
 title: "Simone"
 about:
   template: trestles
-  image: profile.jpg
+  image: profile_2.jpg
   links:
     - icon: github
       text: Github
