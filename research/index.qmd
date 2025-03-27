@@ -1,7 +1,5 @@
 ---
 title: "Research"
-listing:
-  type: default
 ---
 
 
@@ -17,6 +15,6 @@ We investigate selection into criminality. Specifically, we use a noveldataset o
 
 
 
-Summary of the study can be found [here](https://www.climatepolicyinitiative.org/wp-content/uploads/2020/09/Ferrograo-Weaknesses-and-Lessons-Learned-in-Implementing-a-Sustainable-Infrastructure-Agenda.pdf)
+Summary of the policy paper can be found [here](https://www.climatepolicyinitiative.org/wp-content/uploads/2020/09/Ferrograo-Weaknesses-and-Lessons-Learned-in-Implementing-a-Sustainable-Infrastructure-Agenda.pdf)
 
-Available upon request at [CPI/PUC-Rio](https://www.climatepolicyinitiative.org/pt-br/regioes/brasil/)
+Full study available upon request at [CPI/PUC-Rio](https://www.climatepolicyinitiative.org/pt-br/regioes/brasil/)
