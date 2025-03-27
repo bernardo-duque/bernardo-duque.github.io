@@ -17,4 +17,45 @@ I am an Economics PhD Student at Brown University interested in Development Econ
 
 In addition to my academic pursuits, I am also interested in addressing these issues on a practical level. I co-founded an NGO dedicated to scientific dissemination in my hometown, Rio de Janeiro, and I have also gained valuable experience working in the private and public sector.
 
+# Some of my Favourite Albums (Randomly Ordered)
+
+```{r, results='asis', echo=FALSE}
+# Set the folder path (change "images" to your folder name if different)
+folder_path <- "Albuns"
+
+# List all PNG, JPG, or JPEG files (case-insensitive)
+imgs <- list.files(path = folder_path, 
+                   pattern = "\\.(png|jpg|jpeg)$", 
+                   full.names = TRUE, 
+                   ignore.case = TRUE)
+
+# Number of images per row
+n_per_row <- 4
+
+if (length(imgs) > 0) {
+  # Split the vector of images into groups of 4
+  img_groups <- split(imgs, ceiling(seq_along(imgs) / n_per_row))
+  
+  # Start an HTML table
+  cat("<table style='width:100%; border-collapse: collapse;'>\n")
+  
+  for (group in img_groups) {
+    cat("  <tr>\n")
+    for (img in group) {
+      # Adjust the width (or other styling) as needed
+      cat("    <td style='text-align: center; padding: 5px;'>\n")
+      # Set the image width to 200px (adjust as desired)
+      cat(sprintf("      <img src='%s' style='width:200px; height:auto;' />\n", img))
+      cat("    </td>\n")
+    }
+    cat("  </tr>\n")
+  }
+  
+  cat("</table>\n")
+} else {
+  cat("No images found in the folder.")
+}
+
+```
+
 
