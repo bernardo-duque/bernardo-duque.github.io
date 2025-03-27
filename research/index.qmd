@@ -2,9 +2,21 @@
 title: "Research"
 listing:
   type: default
-  contents:
-    - paper-1.qmd
-    - project-1.qmd
 ---
 
-All of my research projects.
+
+# [Who Becomes a Criminal? (Master's Thesis)](https://www.econ.puc-rio.br/uploads/adm/trabalhos/files/Who_Becomes_a_Criminal.pdf)
+
+April, 2024
+
+We investigate selection into criminality. Specifically, we use a noveldataset on inmates across 24 of 26 Brazilian states and rich administrative data to draw the profiles of criminals born between 1996 and 2002. We compare them with non-criminal individuals from the same cohort using a linearprobability model with year of birth and place fixed effects. Our findings suggest that criminals come from more urban and vulnerable places, with a higher exposure to other criminals. In addition, our results indicate that family structure matters and that parents of criminals are more economically vulnerable than parents of non-criminals. Finally, criminals have worse educational performance, a history of juvenile detention, and worse labor market performance.
+
+[Link to paper](https://www.econ.puc-rio.br/uploads/adm/trabalhos/files/Who_Becomes_a_Criminal.pdf)
+
+# Questões Críticas em Grandes Projetos de Infraestrutura: Estudo de Caso - Ferrogrão (with Cláudio Frischtak, Marina Lobo, Manuel Faria and Renata Canini)
+
+
+
+Summary of the study can be found [here](https://www.climatepolicyinitiative.org/wp-content/uploads/2020/09/Ferrograo-Weaknesses-and-Lessons-Learned-in-Implementing-a-Sustainable-Infrastructure-Agenda.pdf)
+
+Available upon request at [CPI/PUC-Rio](https://www.climatepolicyinitiative.org/pt-br/regioes/brasil/)
