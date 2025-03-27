@@ -1,9 +1,14 @@
 ---
 title: "My First Project"
-author: Simone
+author:
+    - Cláudio Frischtak
+    - Marina Lobo 
+    - Manuel Faria 
+    - Renata Canini
+    - Bernardo Duque
 date: "February 28, 2024"
 ---
 
-A description of my project.
+Summary of the study can be found [here](https://www.climatepolicyinitiative.org/wp-content/uploads/2020/09/Ferrograo-Weaknesses-and-Lessons-Learned-in-Implementing-a-Sustainable-Infrastructure-Agenda.pdf)
 
-Could include a photo, or links, or anything at all!
+Available upon request at [CPI/PUC-Rio](https://www.climatepolicyinitiative.org/pt-br/regioes/brasil/)
