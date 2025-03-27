@@ -3,7 +3,8 @@ title: "Research"
 listing:
   type: default
   contents:
-    - "*.qmd"
+    - paper-1.qmd
+    - project-1.qmd
 ---
 
 All of my research projects.
