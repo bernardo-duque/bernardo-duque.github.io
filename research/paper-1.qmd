@@ -1,8 +1,7 @@
 ---
 title: "My First Paper"
 author: 
-  - Simone
-  - Matthew DeHaven
+  - Bernardo Duque
 date: "January 01, 2024"
 ---
 
