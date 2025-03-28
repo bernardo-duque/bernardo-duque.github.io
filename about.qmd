@@ -2,7 +2,7 @@
 title: "Bernardo Duque"
 about:
   template: marquee
-  image: profile_2.jpg
+  image: profile_4.jpg
   links:
     - icon: email
       text: E-mail
