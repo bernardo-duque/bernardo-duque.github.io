@@ -4,6 +4,9 @@ about:
   template: jolla
   image: profile_2.jpg
   links:
+    - icon: email
+      text: E-mail
+      href: bernardo_renno_duque@brown.edu
     - icon: github
       text: Github
       href: https://github.com/bernardo-duque
