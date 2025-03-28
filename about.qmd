@@ -4,6 +4,9 @@ about:
   template: trestles
   image: profile_2.jpg
   links:
+    - icon: email
+      text: E-mail
+      href: bernardo_renno_duque@brown.edu
     - icon: github
       text: Github
       href: https://github.com/bernardo-duque
@@ -14,12 +17,12 @@ about:
 
 ## Education
 
-I hold a Bachelor's degree  a Master's degree in Economics from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). Currently, I am pursuing my PhD in Economics at Brown University.
+Currently, I am pursuing a PhD in Economics at Brown University. I hold a Bachelor's and a Master's degree in Economics from the Pontifical Catholic University of Rio de Janeiro (PUC-Rio). 
 
 ## Experience
 
-I have worked as an research assistant in several projects since 2020. Some of the topics of these projects are the effects of pretrial detention arrest on recidivism; the expasion of drug-trafficking organizations in Rio; testing predictions of the median voter theorem; and investigating whether politicians keep their campaign promises after being elected. 
+I have worked as an research assistant in several projects since 2020. Some of the topics of these projects are the effects of pretrial detention arrest on recidivism; the expasion of drug-trafficking organizations in Rio; the investigation of some predictions of the median voter theorem; and the study of whether politicians keep their campaign promises after being elected. 
 
-I have also worked in the public sector as data analyst for the Research Center at the Public's Attorney's Office of Rio de Janeiro. I assisted research on militias and drug-trafficking organizations in Rio.
+I have also worked in the public sector as a data analyst for the Research Center at the Public's Attorney's Office of Rio de Janeiro. I assisted research on militias and drug-trafficking organizations in Rio.
 
 Further, I have experience in the private sector for consulting firms in Brazil, where I worked on projects related to economic analysis and policy evaluation.
