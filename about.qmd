@@ -1,7 +1,7 @@
 ---
 title: "Bernardo Duque"
 about:
-  template: marquee
+  template: jolla
   image: profile_4.jpg
   links:
     - icon: email
@@ -31,7 +31,7 @@ I have also worked in the public sector as a data analyst for the Research Cente
 Further, I have experience in the private sector for consulting firms in Brazil, where I worked on projects related to economic analysis and policy evaluation.
 
 
-## The Most Beatiful City in the World
+## The Most Beautiful City in the World
 ![Rio](rio.jpg)
 
 
