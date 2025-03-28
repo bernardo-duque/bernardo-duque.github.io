@@ -13,10 +13,11 @@ website:
         text: Research
       - href: cv_2.pdf
         text: CV
+        target: _blank
 
 format:
   html:
-    theme: cosmo
+    theme: darkly
     css: styles.css
     toc: true
 

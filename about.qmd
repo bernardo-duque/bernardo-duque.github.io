@@ -1,8 +1,8 @@
 ---
 title: "Bernardo Duque"
 about:
-  template: marquee
-  image: rio.jpg
+  template: trestles
+  image: profile_2.jpg
   links:
     - icon: email
       text: E-mail
@@ -31,7 +31,11 @@ I have also worked in the public sector as a data analyst for the Research Cente
 Further, I have experience in the private sector for consulting firms in Brazil, where I worked on projects related to economic analysis and policy evaluation.
 
 
-# Some of my Favourite Albums (Randomly Ordered)
+## The Most Beatiful City in the World
+![Rio](rio.jpg)
+
+
+## Some of my Favourite Albums (Randomly Ordered)
 
 ```{r, results='asis', echo=FALSE}
 # Set the folder path (change "images" to your folder name if different)
