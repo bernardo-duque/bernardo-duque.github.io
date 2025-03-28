@@ -1,0 +1,12 @@
+---
+title: "teste"
+---
+
+
+<div style="display: flex; align-items: center;">
+  <img src="profile_2.jpg" alt="Profile" style="width:150px; margin-right:20px;">
+  <div>
+    <p><a href="mailto:XXX@XXX.edu">E-mail</a></p>
+    <!-- Add additional links here -->
+  </div>
+</div>

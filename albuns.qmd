@@ -1,29 +1,6 @@
 ---
-title: "Bernardo Duque"
-about:
-  template: jolla
-  image: profile.jpg
-  links:
-    - icon: email
-      text: E-mail
-      href: mailto:bernardo_renno_duque@brown.edu
-    - icon: cv
-      text: CV
-      href: cv_2.pdf
-    - icon: github
-      text: Github
-      href: https://github.com/bernardo-duque
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/bernardo-duque-a0ba07180/
-      
+title: "Some of my Favourite Albums (Randomly Ordered)"
 ---
-
-I am an Economics PhD Student at Brown University interested in Development Economics and Political Economy. In particular, my research focuses on Crime and Criminal Organizations, which pose significant challenges to development in my country.
-
-In addition to my academic pursuits, I am also interested in addressing these issues on a practical level. I co-founded an NGO dedicated to scientific dissemination in my hometown, Rio de Janeiro, and I have also gained valuable experience working in the private and public sector.
-
-# Some of my Favourite Albums (Randomly Ordered)
 
 ```{r, results='asis', echo=FALSE}
 # Set the folder path (change "images" to your folder name if different)
