@@ -1,7 +1,7 @@
 ---
 title: "Bernardo Duque"
 about:
-  template: trestles
+  template: marquee
   image: profile_2.jpg
   links:
     - icon: email

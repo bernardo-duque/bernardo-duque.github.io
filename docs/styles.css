@@ -1,1 +1,6 @@
 /* css styles */
+img[src$="profile.jpg"] {
+    width: 200px !important;  /* Adjust as desired */
+    height: 100px !important;  /* Maintain aspect ratio */
+  }
+  
