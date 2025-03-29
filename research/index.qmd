@@ -14,7 +14,7 @@ We investigate selection into criminality. Specifically, we use a novel dataset 
 
 ## Policy Paper
 
-### Questões Críticas em Grandes Projetos de Infraestrutura: Estudo de Caso - Ferrogrão (with Cláudio Frischtak, Marina Lobo, Manuel de Faria and Renata Canini)
+### <ins>Questões Críticas em Grandes Projetos de Infraestrutura: Estudo de Caso - Ferrogrão (with Cláudio Frischtak, Marina Lobo, Manuel de Faria and Renata Canini)<ins>
 
 
 
